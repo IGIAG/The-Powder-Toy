@@ -24,8 +24,8 @@ constexpr int YCNTR = YRES / 2;
 
 constexpr Vec2<int> WINDOW = RES + Vec2(BARSIZE, MENUSIZE);
 
-constexpr int WINDOWW = WINDOW.X;
-constexpr int WINDOWH = WINDOW.Y;
+constexpr int WINDOWW = 1000;
+constexpr int WINDOWH = 1000;
 
 constexpr int MAXSIGNS = 16;
 
